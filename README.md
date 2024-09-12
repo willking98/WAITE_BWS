@@ -1,4 +1,4 @@
-# WAItE DCE Survey with {surveydown}
- This is work in progress code for the WAItE DCE. Live version of the survey available [here](https://willking98.shinyapps.io/demo-choice-based-conjoint-main-1/). Admin page for data collection [here](https://willking98.shinyapps.io/demo-choice-based-conjoint-main-1/?admin).
+# WAItE BWS Survey with {surveydown}
+ This is work in progress code for the WAItE BWS. Live version of the survey available [here](https://nclheg.shinyapps.io/WAITE_BWS/). Admin page for data collection [here](https://nclheg.shinyapps.io/WAITE_BWS/?admin).
 
 For more information about the {surveydown} R package, see the [surveydown website](https://surveydown.org).
