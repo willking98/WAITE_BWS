@@ -1,0 +1,81 @@
+profileID,respID,qID,altID,obsID,tired,walking,sports,concentration,embarrassed,unhappiness,treated
+62163,1,1,1,1,sometimes,sometimes,almost never,sometimes,always,always,often
+39823,1,1,2,1,sometimes,always,sometimes,often,often,sometimes,sometimes
+65293,1,2,1,2,sometimes,often,almost never,sometimes,always,never,always
+73906,1,2,2,2,never,almost never,almost never,almost never,often,often,always
+23783,1,3,1,3,sometimes,almost never,almost never,never,often,sometimes,almost never
+641,1,3,2,3,never,often,never,never,almost never,never,never
+47697,1,4,1,4,almost never,always,sometimes,almost never,almost never,never,often
+27776,1,4,2,4,never,never,almost never,sometimes,always,often,almost never
+4457,1,5,1,5,almost never,almost never,often,never,sometimes,almost never,never
+30003,1,5,2,5,sometimes,never,never,never,often,always,almost never
+46013,1,6,1,6,sometimes,sometimes,never,often,often,always,sometimes
+55636,1,6,2,6,never,sometimes,never,never,always,sometimes,often
+46923,1,7,1,7,sometimes,always,almost never,never,never,never,often
+6191,1,7,2,7,never,often,sometimes,always,always,almost never,never
+44686,1,8,1,8,never,sometimes,sometimes,sometimes,almost never,always,sometimes
+72223,1,8,2,8,sometimes,always,often,sometimes,never,often,always
+63029,2,1,1,9,often,never,almost never,always,never,never,always
+50202,2,1,2,9,almost never,never,often,almost never,never,almost never,often
+22129,2,2,1,10,often,never,never,sometimes,never,sometimes,almost never
+51326,2,2,2,10,never,never,often,never,sometimes,almost never,often
+56224,2,3,1,11,often,always,often,always,always,sometimes,often
+34031,2,3,2,11,never,almost never,almost never,sometimes,always,never,sometimes
+36485,2,4,1,12,always,almost never,always,almost never,often,almost never,sometimes
+70773,2,4,2,12,sometimes,always,never,almost never,often,sometimes,always
+69813,2,5,1,13,sometimes,sometimes,sometimes,often,almost never,sometimes,always
+39317,2,5,2,13,almost never,often,sometimes,always,sometimes,sometimes,sometimes
+13817,2,6,1,14,almost never,often,sometimes,never,sometimes,always,never
+21597,2,6,2,14,almost never,always,often,sometimes,always,almost never,almost never
+34689,2,7,1,15,often,sometimes,sometimes,sometimes,never,almost never,sometimes
+12403,2,7,2,15,sometimes,never,almost never,always,always,often,never
+43667,2,8,1,16,almost never,often,almost never,always,always,often,sometimes
+48836,2,8,2,16,never,sometimes,often,never,often,never,often
+46553,3,1,1,17,sometimes,never,sometimes,sometimes,always,always,sometimes
+37573,3,1,2,17,sometimes,always,sometimes,never,never,sometimes,sometimes
+77505,3,2,1,18,always,never,never,never,always,always,always
+42757,3,2,2,18,almost never,almost never,never,sometimes,often,often,sometimes
+9008,3,3,1,19,sometimes,almost never,never,sometimes,always,sometimes,never
+68463,3,3,2,19,sometimes,sometimes,often,sometimes,always,almost never,always
+10015,3,4,1,20,always,sometimes,never,never,almost never,often,never
+61284,3,4,2,20,often,almost never,almost never,never,often,always,often
+66739,3,5,1,21,often,sometimes,always,often,almost never,almost never,always
+49367,3,5,2,21,almost never,often,always,always,often,never,often
+74513,3,6,1,22,sometimes,sometimes,never,almost never,always,often,always
+8092,3,6,2,22,almost never,often,often,always,sometimes,sometimes,never
+44382,3,7,1,23,almost never,almost never,never,never,almost never,always,sometimes
+68966,3,7,2,23,never,often,often,almost never,never,sometimes,always
+33816,3,8,1,24,never,often,sometimes,never,always,never,sometimes
+27720,3,8,2,24,always,often,often,almost never,always,often,almost never
+44909,4,1,1,25,often,almost never,almost never,always,almost never,always,sometimes
+29852,4,1,2,25,almost never,never,always,often,sometimes,always,almost never
+18347,4,2,1,26,almost never,always,often,almost never,always,never,almost never
+24208,4,2,2,26,sometimes,almost never,often,often,often,sometimes,almost never
+939,4,3,1,27,often,sometimes,sometimes,sometimes,almost never,never,never
+61126,4,3,2,27,never,never,never,always,sometimes,always,often
+21034,4,4,1,28,often,almost never,almost never,often,often,almost never,almost never
+55401,4,4,2,28,never,never,almost never,often,often,sometimes,often
+55844,4,5,1,29,often,often,often,almost never,always,sometimes,often
+73387,4,5,2,29,almost never,sometimes,never,sometimes,sometimes,often,always
+75921,4,6,1,30,never,always,almost never,sometimes,almost never,always,always
+43013,4,6,2,30,sometimes,sometimes,never,always,often,often,sometimes
+77188,4,7,1,31,sometimes,sometimes,sometimes,sometimes,often,always,always
+17809,4,7,2,31,often,almost never,sometimes,sometimes,often,never,almost never
+52731,4,8,1,32,never,almost never,always,almost never,always,almost never,often
+66573,4,8,2,32,sometimes,always,sometimes,sometimes,almost never,almost never,always
+26580,5,1,1,33,always,never,often,sometimes,sometimes,often,almost never
+63846,5,1,2,33,never,always,often,never,sometimes,never,always
+31523,5,2,1,34,sometimes,always,never,sometimes,never,never,sometimes
+11311,5,2,2,34,never,sometimes,sometimes,never,often,often,never
+57997,5,3,1,35,almost never,always,always,often,sometimes,often,often
+71613,5,3,2,35,sometimes,sometimes,always,sometimes,always,sometimes,always
+31028,5,4,1,36,sometimes,never,almost never,often,always,always,almost never
+74879,5,4,2,36,often,never,never,always,always,often,always
+55280,5,5,1,37,always,never,almost never,sometimes,often,sometimes,often
+66389,5,5,2,37,often,sometimes,never,almost never,almost never,almost never,always
+9528,5,6,1,38,sometimes,never,almost never,almost never,never,often,never
+12727,5,6,2,38,almost never,never,always,almost never,never,always,never
+62718,5,7,1,39,sometimes,often,often,almost never,never,never,always
+42447,5,7,2,39,almost never,always,sometimes,always,sometimes,often,sometimes
+52161,5,8,1,40,never,sometimes,almost never,sometimes,often,almost never,often
+33351,5,8,2,40,never,never,always,almost never,often,never,sometimes
